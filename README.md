@@ -1,2 +1,2 @@
 # calismalarim
-Öğrenci Yönetim Uygulaması
+
